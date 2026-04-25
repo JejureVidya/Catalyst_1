@@ -44,7 +44,7 @@ async def call_gemini(prompt: str, system: str = "", parts_extra: list = None) -
     if system:
         contents.append({
             "role": "user",
-            "parts": [{"text": f"[SYSTEM INSTRUCTIONS]\n{system}\n[/SYSTEM INSTRUCTIONS]\n\n{prompt}"]
+            "parts": [{"text": f"[SYSTEM INSTRUCTIONS]\n{system}\n[/SYSTEM INSTRUCTIONS]\n\n{prompt}"}]
         })
     else:
         parts = [{"text": prompt}]
@@ -186,7 +186,7 @@ def build_skill_matrix(jd: dict, resume: dict) -> list:
         else:
             # fuzzy: check if any resume skill name contains this skill word
             fuzzy = next(
-                (v for k, v in res_map.items()
+                (v for k, v in res_mapclass.items()
                  if key in k or k in key), None
             )
             status = "partial" if fuzzy else "missing"
