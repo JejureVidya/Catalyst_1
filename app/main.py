@@ -11,7 +11,7 @@ from fastapi import FastAPI, UploadFile, File, Form, HTTPException
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import HTMLResponse, FileResponse
 from fastapi.middleware.cors import CORSMiddleware
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 import httpx
 
 app = FastAPI(title="Catalyst — Skill Assessment Agent")
@@ -511,8 +511,11 @@ async def start_session(
 
 
 class ChatPayload(BaseModel):
-    session_id: str
-    message:    str
+    session_id: str = Field(...)
+    message:    str = Field(...)
+
+    class Config:
+        anystr_strip_whitespace = True
 
 
 @app.post("/api/chat")
