@@ -1,0 +1,75 @@
+AKSHAY BAPUSAHEB KALWAGHE
+Software Engineer
+akshay.kalwaghe@gmail.com | +91 98765 43210 | LinkedIn: linkedin.com/in/akshaykalwaghe
+GitHub: github.com/akshaykalwaghe | Pune, Maharashtra
+
+─────────────────────────────────────────────────────────
+SUMMARY
+─────────────────────────────────────────────────────────
+Backend-focused software engineer with 2.5 years of experience building Python-based
+web services and data pipelines. Strong foundation in REST API development and SQL
+databases. Comfortable working in agile teams and shipping production code.
+
+─────────────────────────────────────────────────────────
+EXPERIENCE
+─────────────────────────────────────────────────────────
+
+Software Engineer — Infosys Limited, Pune
+July 2022 – Present
+
+• Built and maintained 6 REST APIs using Python and Flask for an internal HR
+  portal serving 8,000 employees across 3 business units.
+• Wrote and optimised PostgreSQL queries reducing average report generation time
+  from 14 seconds to 3 seconds for monthly payroll reports.
+• Containerised 3 legacy services using Docker, enabling the team to standardise
+  deployment across dev and staging environments.
+• Participated in on-call rotation and used AWS CloudWatch to monitor service
+  health; resolved 4 P1 incidents independently.
+• Wrote pytest unit tests achieving 78% code coverage on core modules.
+• Used Git daily with feature branch workflow and GitHub pull requests.
+
+Junior Developer (Intern) — TechSpark Solutions, Pune
+Jan 2022 – June 2022
+
+• Developed a data scraping utility in Python (BeautifulSoup + requests) that
+  collected product pricing data from 12 e-commerce sites daily.
+• Assisted in migrating a MySQL database to PostgreSQL, writing migration scripts
+  and validating data integrity.
+
+─────────────────────────────────────────────────────────
+PROJECTS
+─────────────────────────────────────────────────────────
+
+Budget Tracker API (Personal Project)
+• Built a personal finance REST API using FastAPI and SQLite with JWT auth.
+• Deployed on a free-tier EC2 instance; integrated with a React frontend.
+• GitHub: github.com/akshaykalwaghe/budget-tracker
+
+College Placement Portal (Final Year Project)
+• Full-stack web app using Django and MySQL for managing campus recruitment.
+• Implemented email notifications using SMTP and PDF generation for offer letters.
+
+─────────────────────────────────────────────────────────
+SKILLS
+─────────────────────────────────────────────────────────
+
+Languages:        Python (primary), SQL, JavaScript (basic)
+Frameworks:       Flask, FastAPI (personal projects), Django (college project)
+Databases:        PostgreSQL, MySQL, SQLite
+Cloud & DevOps:   AWS (EC2, S3, CloudWatch), Docker, basic Git/GitHub Actions
+Testing:          pytest, Postman
+Tools:            Git, VS Code, Linux CLI, Jira
+
+─────────────────────────────────────────────────────────
+EDUCATION
+─────────────────────────────────────────────────────────
+
+B.E. Computer Engineering — Savitribai Phule Pune University
+Graduated May 2022 | CGPA: 8.4 / 10
+
+─────────────────────────────────────────────────────────
+CERTIFICATIONS
+─────────────────────────────────────────────────────────
+
+• AWS Certified Cloud Practitioner (2023)
+• Python for Everybody — Coursera (2021)

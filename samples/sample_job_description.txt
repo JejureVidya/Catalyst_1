@@ -1,0 +1,39 @@
+Position: Backend Software Engineer
+Company: FinFlow Technologies
+Location: Bangalore, India (Hybrid)
+
+About the Role:
+We are looking for a skilled Backend Software Engineer to join our core platform team.
+You will design, build, and maintain scalable backend services powering our fintech platform
+serving over 2 million users.
+
+Responsibilities:
+- Design and build RESTful APIs and microservices using Python and FastAPI
+- Write efficient database queries and manage PostgreSQL schemas
+- Containerise services using Docker and deploy to Kubernetes clusters on AWS
+- Implement CI/CD pipelines using GitHub Actions
+- Collaborate with frontend and data teams in an agile environment
+- Write unit and integration tests with pytest
+- Monitor services using AWS CloudWatch and write runbooks for incidents
+
+Required Skills:
+- 2+ years of experience with Python (must-have)
+- Strong knowledge of FastAPI or Django REST Framework (must-have)
+- Experience with PostgreSQL and writing complex SQL queries (must-have)
+- Hands-on experience with Docker and containerisation (must-have)
+- Familiarity with AWS services — EC2, RDS, S3, Lambda (must-have)
+- Understanding of REST API design principles (must-have)
+- Experience with Git and version control workflows (must-have)
+
+Preferred Skills:
+- Experience with Kubernetes or ECS for container orchestration (nice-to-have)
+- Knowledge of Redis for caching and pub/sub messaging (nice-to-have)
+- Exposure to message queues like Kafka or RabbitMQ (nice-to-have)
+- Experience with system design and distributed systems (nice-to-have)
+- Familiarity with CI/CD tools like GitHub Actions or Jenkins (nice-to-have)
+
+What We Offer:
+- Competitive salary (12–18 LPA depending on experience)
+- Hybrid work model (3 days in office)
+- Learning budget of ₹50,000/year
+- Health insurance for family
